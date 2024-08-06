@@ -1,4 +1,4 @@
-# Simple ATS (Applicant Tracking System) 💻
+# ATS (Applicant Tracking System) 💻
 
 Welcome to the Simple ATS project! This straightforward Applicant Tracking System, built with Streamlit, helps you get familiar with Large Language Models (LLMs). It offers basic functionalities to manage job applications and candidate information by analyzing resumes against job descriptions.
 
