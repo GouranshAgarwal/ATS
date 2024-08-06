@@ -1,12 +1,7 @@
-Here's an attractive, well-formatted README for your Simple ATS project:
-
----
-
 # Simple ATS (Applicant Tracking System) 💻
 
 Welcome to the Simple ATS project! This straightforward Applicant Tracking System, built with Streamlit, helps you get familiar with Large Language Models (LLMs). It offers basic functionalities to manage job applications and candidate information by analyzing resumes against job descriptions.
 
-![ATS Banner](https://via.placeholder.com/1200x300.png?text=Simple+ATS+Banner)
 
 ## 🌟 Features
 
@@ -21,7 +16,7 @@ To get started with the Simple ATS, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/gouranshagarwal/ATS.git
+    git clone [https://github.com/gouranshagarwal/ATS.git](https://github.com/GouranshAgarwal/ATS.git)
     cd simple-ats
     ```
 
