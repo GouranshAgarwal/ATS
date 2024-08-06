@@ -16,8 +16,8 @@ To get started with the Simple ATS, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone [https://github.com/gouranshagarwal/ATS.git](https://github.com/GouranshAgarwal/ATS.git)
-    cd simple-ats
+    git clone https://github.com/GouranshAgarwal/ATS.git
+    cd ats
     ```
 
 2. **Install the required dependencies**:
