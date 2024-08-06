@@ -34,7 +34,7 @@ To get started with the Simple ATS, follow these steps:
 
 4. **Run the Streamlit app**:
     ```bash
-    streamlit run app.py
+    streamlit run ATS.py
     ```
 
 ## 📝 Usage
